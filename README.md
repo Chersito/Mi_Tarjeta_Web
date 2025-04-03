@@ -14,8 +14,7 @@ El objetivo es familiarizarse con Django y luego subir el proyecto a GitHub.
 Para obtener el código en tu equipo, usa el siguiente comando:  
 
 ```bash
-git clone https://github.com/tu_usuario/mi-tarjeta-web.git
-cd mi-tarjeta-web
+git clone https://github.com/Chersito/Mi_Tarjeta_Web.git
 ```
 
 ### Ejecutar de manera local el proycto
@@ -25,5 +24,5 @@ cd mi-tarjeta-web
     python3 manage.py runserver
 ```
 
-Ingresar a **http://127.0.0.1:8000/**
+Ingresar a tu localhost *http://127.0.0.1:8000/*
 
