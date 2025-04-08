@@ -6,4 +6,5 @@ def nombre_en_la_web(request):
 def mi_tarjeta_web(request):
     return render(request, 'mi_tarjeta_web.html')
 
-
+def saludo(request, nombre):
+    return render(request, 'saludo.html', {'nombre': nombre})
